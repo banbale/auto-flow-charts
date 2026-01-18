@@ -1,4 +1,4 @@
-![img](assets/header_pic.png)
+![img](assets/header_small.png)
 
 
 # auto-flow-charts
