@@ -15,8 +15,16 @@ Created with [draw.io](https://app.draw.io/)
 
 [Diesel keine Leistung](pdf/diesel_keine_leistungV2.pdf)
 
+[Otto startet nicht]()
+
+[Otto keine Leistung]()
+
 ### Bordnetz
 
+[Starter dreht nicht]()
 
+[Generator Lädt nicht]()
 
 ### Achsvermessung
+
+[Fahrwerksvermessung]()
