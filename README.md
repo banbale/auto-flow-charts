@@ -10,7 +10,7 @@ Created with [draw.io](https://app.draw.io/)
 
 [Diesel startet nicht](pdf/diesel_startet_nicht.pdf)
 
-[Diesel keine Leistung](pdf/diesel_keine_leistung.pdf)
+[Diesel keine Leistung](pdf/diesel_keine_leistungV2.pdf)
 
 ### Bordnetz
 
